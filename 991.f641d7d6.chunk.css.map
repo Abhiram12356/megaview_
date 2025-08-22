@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/991.f641d7d6.chunk.css","mappings":"AAAA,cAGE,sEAA8C,CAC9C,oBAAuB,CAHvB,WAAY,CACZ,UAGF","sources":["Assets/Styles/swaggerTemp.css"],"sourcesContent":[".swagger-copy {\r\n  height: 28px;\r\n  width: 28px;\r\n  background-image: url(../Images/icon-copy.svg);\r\n  border-color: aliceblue;\r\n}\r\n"],"names":[],"sourceRoot":""}
